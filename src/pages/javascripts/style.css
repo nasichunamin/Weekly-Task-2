@@ -1,0 +1,19 @@
+/* Javascript CSS */
+.main_content {
+    margin: 2rem;
+    width: 95%;
+    padding-left: 200px;
+}
+
+.title {
+    padding-bottom: 10px;
+    padding-left: 1rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.26);
+}
+
+.image {
+    width: 800px;
+  display: flex;
+  margin: 1rem auto;
+}
+
